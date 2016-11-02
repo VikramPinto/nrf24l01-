@@ -1,4 +1,4 @@
-# nrf24l01-
+# nrf24l01
 Modified spidev for nrf24l01 linux driver
 
 Build the project and execute the program nrf on the board as instructed below
